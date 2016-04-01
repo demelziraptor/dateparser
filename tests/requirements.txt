@@ -1,3 +1,6 @@
 mock
 nose
 nose-parameterized
+flake8
+tox
+
